@@ -1,7 +1,5 @@
 # Gaze-tracker
 
-# Gaze Tracking
-
 This project involves 3 different experimentations:
 
 ## Video Smoothing & Stabilization
